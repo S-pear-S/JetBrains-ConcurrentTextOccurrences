@@ -1,0 +1,4 @@
+package searcher
+
+class FileSearcher {
+}
