@@ -1,0 +1,3 @@
+KotlinKotlin is a great language.
+Start with Kotlin, end with Kotlin
+This line is a simple test with Kotlin in the middle.

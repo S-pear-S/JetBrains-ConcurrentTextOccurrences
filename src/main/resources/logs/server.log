@@ -1,1 +1,28 @@
-INFO: The Kotlin server started successfully.
+INFO: The Kotlin server started successfully.[INFO] [2025-10-02 21:53:16] Application started.
+[INFO] [2025-10-02 21:54:18] Starting search for 'Kotlin' in '/Users/Kruska/IdeaProjects/JetBrains-ConcurrentTextOccurrences/src/main/resources/search_demo_files'.
+[INFO] [2025-10-02 21:54:18] Search finished. Found a total of 7 occurrences.
+[INFO] [2025-10-02 21:54:18] Application shutting down.
+[INFO] [2025-10-02 22:01:05] Application started.
+[INFO] [2025-10-02 22:01:24] Starting search for 'Kotlin' in '/Users/Kruska/IdeaProjects/JetBrains-ConcurrentTextOccurrences/build/resources/main/search_demo_files'.
+[INFO] [2025-10-02 22:01:24] Search finished. Found a total of 7 occurrences.
+[INFO] [2025-10-02 22:01:24] Application shutting down.
+[INFO] [2025-10-02 22:14:50] Application started.
+[INFO] [2025-10-02 22:15:04] Starting search for 'Kotlin' in '/Users/Kruska/IdeaProjects/JetBrains-ConcurrentTextOccurrences/build/resources/main/search_demo_files'.
+[INFO] [2025-10-02 22:15:05] Search finished. Found a total of 7 occurrences.
+[INFO] [2025-10-02 22:15:05] Application shutting down.
+[INFO] [2025-10-02 22:25:10] Application started.
+[INFO] [2025-10-02 22:25:36] Starting search for 'Kotlin' in '/Users/Kruska/IdeaProjects/JetBrains-ConcurrentTextOccurrences/build/resources/main/search_demo_files'.
+[INFO] [2025-10-02 22:25:36] Search finished. Found a total of 7 occurrences.
+[INFO] [2025-10-02 22:25:36] Application shutting down.
+[INFO] [2025-10-03 00:31:28] Application started.
+[INFO] [2025-10-03 00:31:28] ERROR: The search string cannot be empty.. Application shutting down.
+[INFO] [2025-10-03 00:32:35] Application started.
+[INFO] [2025-10-03 00:32:35] ERROR: The search string cannot be empty.. Application shutting down.
+[INFO] [2025-10-03 00:40:46] Application started.
+[INFO] [2025-10-03 00:41:41] Starting search for 'Kotlin' in '/Users/Kruska/IdeaProjects/JetBrains-ConcurrentTextOccurrences/build/resources/main/search_demo_files'.
+[INFO] [2025-10-03 00:41:41] Search finished. Found a total of 7 occurrences.
+[INFO] [2025-10-03 00:41:41] Application shutting down.
+[INFO] [2025-10-03 00:46:48] Application started.
+[INFO] [2025-10-03 00:47:06] Starting search for 'Kotlin' in '/Users/Kruska/IdeaProjects/JetBrains-ConcurrentTextOccurrences/build/resources/main/search_demo_files'.
+[INFO] [2025-10-03 00:47:06] Search finished. Found a total of 7 occurrences.
+[INFO] [2025-10-03 00:47:06] Application shutting down.
